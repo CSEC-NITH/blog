@@ -1,19 +1,25 @@
 # Site settings
-title: Daktilo
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Imaginative musings
+description: Just a bunch of computer science students trying to make their way in the big bad world of CS.
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hitchhiker.ma" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://csec.nith.ac.in" # the base hostname & protocol for your site
 
-author:
-  fullname: Motaquillah Maddane
-  googleplus: https://www.google.com/+MotaquillahMaddane
-  github: kronik3r
-  twitter: electrik_frog
-  # disqus: your_disqus_forum_shortname
+future: true
+
+authors:
+  disqus: csec-nith-ac-in-blog
+  param:
+    fullname: Param Singh
+    github: paramsingh
+    twitter: paramsingh258
+  shikhar:
+    fullname: Shikhar Srivastava
+    github: shikhar-srivastava
+  rohan:
+    fullname: Rohan Jaswal
+    github: rohanjaswal2507
+
 
 # google_analytics: 'UA-XXXXXXXX-X'
 

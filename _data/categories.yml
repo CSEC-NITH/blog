@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: competitive-programming
+  name: Competitive Programming
 
-- slug: tools
-  name: Tools
+- slug: webdev
+  name: Web Development
 
-- slug: productivity
-  name: Productivity
+- slug: open-source
+  name: Open Source
