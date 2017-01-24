@@ -38,8 +38,8 @@ along with their projects (or the tech they intend to use) is as follows:
 * **Chahat Aggarwal** - Python / C++
 * **Mohit Tak** - Java / C++
 * **Saurabh Kumar / Mukesh Kharita** - Javascript / HTML / CSS / PHP
-* **Aadhar Gupta / Vijaya Laxmi** - Undecided
-* **Jayesh Mehra / Pranjal Gaur** - Undecided
+* **Aadhar Gupta / Vijaya Laxmi** - HTML / CSS / Javascript / PHP
+* **Jayesh Mehra / Pranjal Gaur** - HTML / CSS / Javascript / PHP
 
 Please note that you don't really need to worry much if you're not comfortable with the tech in the list,
 you'll get as much help from the mentors as possible.
