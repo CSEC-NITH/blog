@@ -2,7 +2,7 @@
 title: blog.csec
 description: Just a bunch of computer science students trying to make their way in the big bad world of CS.
 
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://csec.nith.ac.in" # the base hostname & protocol for your site
 
 future: true
