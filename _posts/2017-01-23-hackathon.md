@@ -37,7 +37,7 @@ along with their projects (or the tech they intend to use) is as follows:
 * **Goutham Reddy** - Java / Android
 * **Chahat Aggarwal** - Python / C++
 * **Mohit Tak** - Java / C++
-* **Saurabh Kumar / Mukesh Kharita** - Javascript / HTML / CSS / PHP
+* **Saurabh Kumar / Mukesh Kumar Kharita** - Javascript / HTML / CSS / PHP
 * **Aadhar Gupta / Vijaya Laxmi** - HTML / CSS / Javascript / PHP
 * **Jayesh Mehra / Pranjal Gaur** - HTML / CSS / Javascript / PHP
 
