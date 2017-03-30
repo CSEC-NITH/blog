@@ -5,6 +5,8 @@ date:   2017-03-29
 author: ferbncode
 ---
 
+This edition of Heuristics was [Radiohead](https://en.wikipedia.org/wiki/Radiohead) themed. Hopefully you liked it. We recommend you check out In Rainbows if you want to listen to some great music.
+
 ## [Fake Plastic Trees](https://www.hackerearth.com/problem/algorithm/fake-plastic-trees/)
 
 ### Author: [Suyash Garg](https://github.com/ferbncode)
