@@ -1,4 +1,13 @@
+---
+layout: post
+title:  "Heuristics #5 - Editorial"
+date:   2017-01-29
+author: ferbncode
+---
+
 ## Fake Plastic Trees:
+
+### Author: Suyash Garg
 
 Given the array of integers, it was required to find the minimum number of swaps to bring max element to the first index and the minimum element to the last index. The approach to solve this problem is as follows:
 
@@ -10,6 +19,8 @@ Find code in C++ [here](https://gist.github.com/ferbncode/2dc5b4391c14c7f9e1a064
 
 
 ## Subterranean Homesick Aliens
+
+### Author: Suyash Garg
 
 Given a matrix of nx3 containing the cost to paint n stones, it was required to find the minimum cost to paint all stones such that no adjacent stones have the same color. This is a question of [Dynamic Programming](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced). Consider this problem for 1 stone. The answer is simply the minimum of all the three colors. For 2 stones, the answer is min((cost of painting 2 stone by red + min(cost of painting stone 1 by majenta, cost of painting stone 1 by violet)), (cost of painting stone 2 by violet + min(cost of painting stone 1 by majenta or red)) and a similar case when stone 2 is painted by majenta). Thus, this problem can be then extended to n stones. Thus:
 
