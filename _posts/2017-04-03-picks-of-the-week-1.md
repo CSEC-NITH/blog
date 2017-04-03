@@ -22,3 +22,10 @@ Binary search is hard to get right. People think that it only involves finding a
 
 Here is a great tutorial to familiarize yourself with Binary Search and it's greater uses: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
 
+
+## [MARTIAN](http://www.spoj.com/problems/MARTIAN/)
+
+Recommended by: Shikhar Srivastava
+
+Dynamic Programming is one of the most important sub-parts of competitive coding. CP is all about DP.
+Martian Mining is a very interesting problem that took me and Param a long time to solve. But after seeing the solution, it was crystal clear. It really helped us in understanding how to approach Dynamic Programming problems.
