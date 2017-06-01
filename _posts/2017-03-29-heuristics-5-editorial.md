@@ -46,7 +46,7 @@ where:
 ### Author: [Param Singh](https://github.com/paramsingh)
 
 This was a simple ad-hoc problem with the constraints so small that the brute force approach would
-work easily. All you had to do in this one was iterate through all numbers less than $$X$$, check if they satisfy the condition given in the question and keep a count.
+work easily. All you had to do in this one was iterate through all numbers less than *X*, check if they satisfy the condition given in the question and keep a count.
 
 [Author's solution](https://www.hackerearth.com/submission/7856306/)
 
@@ -64,6 +64,6 @@ What we need to do is precompute the answer for each node and store it in an arr
 
 This problem was sourced from [SPOJ](http://spoj.com/problems/ASSIGN). It is a standard problem  that involves Dynamic Programming with bitmasks. The state of the DP is a bitmask that keeps track of which puzzles have been given to children already. Then we start assigning puzzles according to this bitmask and get a count of all possible assignments.
 
-The complexity of this solution is $$O(2^n)$$.
+The complexity of this solution is O(2^n).
 
 [Editorialist's solution](https://www.hackerearth.com/submission/7856504/)
