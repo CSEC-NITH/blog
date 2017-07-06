@@ -5,6 +5,12 @@ date:   2017-07-06
 author: udit
 ---
 
+# Introduction
+
+Competitive programming, as the name suggests, is a sport of programming. One is presented with few problems for which one has to code solutions that should be efficient enough to fit in the time and memory constraints. Online judges like Codechef, Codeforces, Topcoder etc frequently organize programming competitions that one can take part in and win prizes. Few prestigious competitions like [ACM-ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam) and [Facebook Hacker Cup](https://en.wikipedia.org/wiki/Facebook_Hacker_Cup) are held annually. Doing great in these contests is an achievement in itself.
+
+Now the real question, **"Why should one try it?"**. Well, the answer is simple, programming is a major portion of the work that is done in tech companies. Being good at programming makes it easier to get a job in a good tech company. Competitive programming is the best way of getting good at programming and problem solving. Apart from this, one gets recognition and meets other programmers. There are prizes for top performers in each of these competitions. Most importantly, it quenches the thirst for those looking for challenges.
+
 The very first thing one should note is that this guide is only meant to help you get started with competitive programming and not meant to explain concepts in detail. Anyone interested in further reading can refer to the resources provided at the very end of this guide.
 
 ---
