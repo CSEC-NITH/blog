@@ -23,8 +23,11 @@ authors:
     fullname: Suyash Garg
     github: suyashgargsfam
   rahul:
-      fullname: Rahul Raturi
-      github: rahul-raturi
+    fullname: Rahul Raturi
+    github: rahul-raturi
+  udit:
+    fullname: Udit Gulati
+    github: uditgulati
 
 
 # google_analytics: 'UA-XXXXXXXX-X'
