@@ -49,3 +49,5 @@ permalink: /categories/an-awesome-category/
 # License
 
 The contents of this repository is licensed under [The MIT License.](https://opensource.org/licenses/MIT)
+
+All posts on the [site](http://csec.nith.ac.in/blog) are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
