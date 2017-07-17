@@ -2,14 +2,16 @@
 layout: post
 title:  "Hitchhiker's Guide to Competitive Programming"
 date:   2017-07-06
+categories: competitive-programming
 author: udit
 ---
 
 # Introduction
 
-Competitive programming, as the name suggests, is a sport of programming. One is presented with few problems for which one has to code solutions that should be efficient enough to fit in the time and memory constraints. Online judges like Codechef, Codeforces, Topcoder etc frequently organize programming competitions that one can take part in and win prizes. Few prestigious competitions like [ACM-ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest), [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam) and [Facebook Hacker Cup](https://en.wikipedia.org/wiki/Facebook_Hacker_Cup) are held annually. Doing great in these contests is an achievement in itself.
+Competitive programming is the quintessential Computer Science sport. It is the geek version of your favorite sport, be it Cricket or Football or whatever. The level of competition is fierce and the passion among the participants is awesome. Also, it is a really fun way to meet and socialize with some really cool people. NITH has regular programming meetups where anyone interested can come and solve really hard problems in really short amounts of time with kindred spirits. CP is also a really good method of adding some challenges into the generally laid-back life of a CS student at NITH.
 
-Now the real question, **"Why should one try it?"**. Well, the answer is simple, programming is a major portion of the work that is done in tech companies. Being good at programming makes it easier to get a job in a good tech company. Competitive programming is the best way of getting good at programming and problem solving. Apart from this, one gets recognition and meets other programmers. There are prizes for top performers in each of these competitions. Most importantly, it quenches the thirst for those looking for challenges.
+Besides, if one wants to look at actual material advantages of competitive programming, look no further than interviews at top CS companies. To a person who has been taking part in programming contests for her entire college career, the questions asked in these interviews will generally seem to be easy mode (ok, maybe not, but the problems won't seem impossibly hard, at least).
+
 
 The very first thing one should note is that this guide is only meant to help you get started with competitive programming and not meant to explain concepts in detail. Anyone interested in further reading can refer to the resources provided at the very end of this guide.
 
@@ -17,11 +19,13 @@ The very first thing one should note is that this guide is only meant to help yo
 
 # Prerequisite
 
-Basic knowledge of any programming language. Generally, C, C++, JAVA and PYTHON are used for CP. We'll use C++. The reason behind using C++ and not C is that C++ contains templates of certain frequently used Algorithms and Data Strutures, commonly known as STL. Using them makes the code smaller and easier to debug. Also, PYTHON is helpful in problems with big integers.
+The only prerequisite to getting started with CP is basic knowledge of a programming language. Generally, C, C++, JAVA and PYTHON are used for CP. We'll use C++. The reason behind using C++ and not C is that C++ contains templates of certain frequently used Algorithms and Data Structures, commonly known as STL. Using them makes the code smaller and easier to debug. Also, PYTHON is helpful in problems with big integers.
 
 ##  Some Language tutorials:
 
 +   **PYTHON :** [HackerEarth](https://www.hackerearth.com/practice/python/), [Python Documentation](https://docs.python.org/3/tutorial/index.html)
+
++	**C++ :** [LearnCpp](http://www.learncpp.com/)
 
 +   **STL :** [HackerEarth](https://www.hackerearth.com/practice/notes/standard-template-library/)
 
@@ -74,6 +78,14 @@ Basic knowledge of any programming language. Generally, C, C++, JAVA and PYTHON 
     +   Very effective in improving speed and accuracy.
 
     +   Less time, more problems and more participants makes it tougher and more interesting than Codechef.
+
++	**[Heuristics](https://www.hackerearth.com/challenge/college/csec-heuristics-0/) :**
+
+    +   Monthly contest organized by CSEC on HackerEarth.
+
+    +   2-3 hrs long and consists of 4-6 problems of varied difficulty.
+
+    +   Editorials are also posted with source on either CSEC blog or on HackerEarth.
     
 ---
 
@@ -101,10 +113,10 @@ Lastly, there will be *Explanation*(might be absent) which explains how sample o
 
 ## Solving the problem:
 
-After reading and understanding the problem, a solution is to be coded for it. A given problem can have many possible solutions but you have to find that solution which comes under the constraints. In order to see if your code fulfills the time and memory limits, you need to do an *Order Analysis* of your solution.
+After reading and understanding the problem, a solution is to be coded for it. A given problem can have many possible solutions but you have to find that solution which comes under the constraints. In order to see if your code fulfills the time and memory limits, you need to do a *Complexity Analysis* of your solution.
 
-**Order Analysis :** 
-Order of a solution is a measure of it's runtime or number of operations as a function of input size. Let's take an example, Suppose we have to find the maximum among N positive numbers.
+**Runtime Complexity Analysis :** 
+Complexity of a solution is a measure of it's runtime or number of operations as a function of input size. Let's take an example, Suppose we have to find the maximum among $$N$$ positive numbers.
 
 ```
 int ans = -1,x;
@@ -114,17 +126,17 @@ for(int i=0;i<N;i++) {
 }
 ```
 
-N times checking i < N.
+$$N$$ times checking $$i < N$$.
 
-N times checking max of ans and x.
+$$N$$ times checking max of ans and x.
 
-N times i++.
+$$N$$ times i++.
 
-N times scanf.
+$$N$$ times scanf.
 
-Hence, total number of operations is $$4 * N$$. We only care about dependency on N. Therefore, order is $$O(N)$$.
+Hence, total number of operations is $$4 * N$$. We only care about dependency on $$N$$. Therefore, order is $$O(N)$$.
 
-[CLRS](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwju8crC0e_UAhWHN48KHTAVCdoQFggjMAA&url=https%3A%2F%2Fweb.njit.edu%2F~wl256%2Fdownload%2Fcs610%2FIntroduction-to-algorithm-3rdEdition.pdf&usg=AFQjCNGJTrGFQdXhlY7ItJk2pCGX9V5S9Q) is having detailed theoretical explanation on Order Analysis.
+[CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms) is having detailed theoretical explanation on Complexity Analysis.
 Also, for most of the online judges(SPOJ, Codechef etc), number of operations in 1 sec is approximately $$10^8$$.
 In some problems, there are T test cases in one input file. If a solution is having order of $$O(N^3)$$, then total order of the whole input will be $$O(T * N^3)$$.
 
@@ -155,13 +167,13 @@ Now, for a warm up, try this problem - [TEST](https://www.codechef.com/problems/
 
 Few more problems to get you familiar with problem solving--
 
-[https://www.codechef.com/problems/HS08TEST](https://www.codechef.com/problems/HS08TEST)
++	[https://www.codechef.com/problems/HS08TEST](https://www.codechef.com/problems/HS08TEST)
 
-[https://www.codechef.com/problems/FLOW001](https://www.codechef.com/problems/FLOW001)
++	[https://www.codechef.com/problems/FLOW001](https://www.codechef.com/problems/FLOW001)
 
-[https://www.codechef.com/problems/INTEST](https://www.codechef.com/problems/INTEST)
++	[https://www.codechef.com/problems/INTEST](https://www.codechef.com/problems/INTEST)
 
-[https://www.codechef.com/problems/FLOW017](https://www.codechef.com/problems/FLOW017)
++	[https://www.codechef.com/problems/FLOW017](https://www.codechef.com/problems/FLOW017)
 
 ---
 
@@ -171,33 +183,29 @@ Certain Data Structures and functions are frequently used while coding solutions
 
 **Data Structures:**
 
-+   Vector
++   **Vector :** [GeeksForGeeks](http://www.geeksforgeeks.org/vector-in-cpp-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/vector)
 
-+   Pair
++   **Pair :** [GeeksForGeeks](http://www.geeksforgeeks.org/pair-in-cpp-stl/), [CppReference](http://en.cppreference.com/w/cpp/utility/pair)
 
-+   Stack 
++   **Stack :** [GeeksForGeeks](http://www.geeksforgeeks.org/stack-in-cpp-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/stack)
 
-+   Queue
++   **Queue :** [GeeksForGeeks](http://www.geeksforgeeks.org/queue-cpp-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/queue)
 
-+   Priority Queue
++   **Priority Queue :** [GeeksForGeeks](http://www.geeksforgeeks.org/priority-queue-in-cpp-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/priority_queue)
 
-+   Set
++   **Set :** [GeeksForGeeks](http://www.geeksforgeeks.org/set-associative-containers-the-c-standard-template-library-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/set)
 
-+   Map
++   **Map :** [GeeksForGeeks](http://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/), [CppReference](http://en.cppreference.com/w/cpp/container/map)
 
 **Functions:**
 
-+   sort
++   **sort :** [GeeksForGeeks](http://www.geeksforgeeks.org/sort-c-stl/), [CppReference](http://en.cppreference.com/w/cpp/algorithm/sort)
 
-+   memset
++   **memset :** [GeeksForGeeks](http://www.geeksforgeeks.org/memset-c-example/), [CppReference](http://en.cppreference.com/w/cpp/string/byte/memset)
 
-+   max, min
++   **binary_search :** [GeeksForGeeks](http://www.geeksforgeeks.org/binary-search-algorithms-the-c-standard-template-library-stl/), [CppReference](http://en.cppreference.com/w/cpp/algorithm/binary_search)
 
-+   binary_search
-
-+   lower_bound, upper_bound
-
-I've already shared the link to hackerEarth tutorial in the beginning, but that is only for Data Structures. For use and implementation of functions, one can just Google them as there are plenty of tutorials for them.
++   **lower_bound, upper_bound :** [GeeksForGeeks](http://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/), [CppReference](http://en.cppreference.com/w/cpp/algorithm/upper_bound)
 
 Also, you might be wondering that which header files are these data structures and functions part of. Each of the above mentioned data structure and function is having it's own header file. But, instead of adding header file for each of them, one can just add a single header file.
 
@@ -247,7 +255,9 @@ Following are few frequently encountered mistakes and errors while writing codes
 
 +   **Declaring arrays of size smaller than required.** This results in Runtime Error. Check if array size is enough for all possible test cases and increase it, if required.
 
-+   **Using int in place of long long and float in place of double.** Using int when an integer having value greater than $$2 * 10^9$$ is to be stored will cause an integer overflow and program will give Wrong answer. Use long long when integer is upto $$10^{18}$$. Double is having more precision as compared to float and hence, must be prefered over float.
++   **Declaring arrays of large fix sizes ($$~ 10^4$$ to $$10^7$$) inside main.** This causes segmentation fault and can be fixed by declaring array outside of main. The reason being that variables declared inside main goes into stack and outside goes into heap inside the memory. Stack is smaller in size as compared to heap and stack overflow occurs when array of large size is declared inside of main. 
+
++   **Using int in place of long long and float in place of double.** Using int when an integer having value greater than $$2 * 10^9$$ is to be stored will cause an integer overflow and program will give Wrong answer. Use long long when integer is upto $$10^{18}$$. Double is having more precision as compared to float and hence, must be preferred over float.
 
 +   **Comparing floats or doubles.** Float and double do not have infinite precision. One can't just directly check for two floating point values for equality.
 
@@ -269,7 +279,33 @@ if(fabs(a - b) < 0.000001) {
 }
 ```
 
-**fabs()** calculates the absolute diff in a and b. If values are equal, diff will be negligible and above condition will be true.
+**fabs()** calculates the absolute diff in a and b. If values are equal, diff will be negligible and above condition will be true. For a more accurate result, one can use [Epsilon](http://en.cppreference.com/w/cpp/types/numeric_limits/epsilon), but in most cases, above method will do.
+
+---
+
+# Important Algorithms and Data Structures
+
+Following are a few links to introductory part of most common topics in algorithms and data structures --
+
++   **Searching:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/), [GeeksForGeeks](http://www.geeksforgeeks.org/searching-algorithms/)
+
++   **Sorting:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/sorting/), [GeeksForGeeks](http://www.geeksforgeeks.org/sorting-algorithms/)
+
++   **Divide & Conquer:** [GeeksForGeeks](http://www.geeksforgeeks.org/category/divide-and-conquer/)
+
++   **Number Theory:** [TopCoder - 1](https://www.topcoder.com/community/data-science/data-science-tutorials/prime-numbers-factorization-and-euler-function/), [TopCoder - 2](https://www.topcoder.com/community/data-science/data-science-tutorials/primality-testing-non-deterministic-algorithms/), [GeeksForGeeks](http://www.geeksforgeeks.org/number-theory-competitive-programming/)
+
++   **Graph Theory:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/), [GeeksForGeeks](http://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+
++   **Geometry:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/)
+
++   **Dynamic Programming:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/), [GeeksForGeeks](http://www.geeksforgeeks.org/dynamic-programming/)
+
++   **Game Theory:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/algorithm-games/)
+
++   **Basic Data Structures:** [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/data-structures/), [GeeksForGeeks](http://www.geeksforgeeks.org/data-structures/)
+
++   **Segment Tree:** [HackerEarth](https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/), [CodeExtractor's Blog ;)](https://codeextractor.wordpress.com/2016/07/11/playing-with-ranges-segment-tree/)
 
 ---
 
@@ -289,7 +325,7 @@ Following are few points that one can make use of in order to get better at Comp
 
 +   It's ok to spend hours on coming up with an approach to a problem. But, if you are stuck for too long, discuss the problem with friends and within your groups. Someone might have already done the problem or might help you in coming up with an approach.
 
-+   Most importantly, you need to be persisitive and keep on going and you'll soon be a pro :). 
++   Most importantly, you need to be persistent and keep on going and you'll soon be a pro :). 
 
 ---
 
