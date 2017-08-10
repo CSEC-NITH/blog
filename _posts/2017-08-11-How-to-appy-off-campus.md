@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Applying Off Campus"
+date:   2017-08-11
+author: shikhar srivastava
+---
 # How to get off campus (Job/Internship)
 
 A lot of people in their college years look for job/internship opportunities for getting industrial experience and/or using their knowledge to solve real world problems. I am writing this article to share some insights on how to get a job/internship **off campus**. 
