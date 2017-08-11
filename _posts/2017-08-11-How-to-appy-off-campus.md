@@ -2,30 +2,31 @@
 layout: post
 title:  "Applying Off Campus"
 date:   2017-08-11
-author: shikhar srivastava
+author: Shikhar Srivastava
 ---
 # How to get off campus (Job/Internship)
 
 A lot of people in their college years look for job/internship opportunities for getting industrial experience and/or using their knowledge to solve real world problems. I am writing this article to share some insights on how to get a job/internship **off campus**. 
 
 ## Application
-If you want to get an **off campus** offer, no doubt this is the first step. There are many problems that people face like, where to apply and how to apply. This is the most important steps and certain things should be kept in mind before applying -
+If you want to get an **off campus** offer, no doubt this is the first step. There are many problems that people face, like where to apply and how to apply. This is the most important step and certain things should be kept in mind before applying -
   - You should know well about the work the organisation does, where you want to apply.
   - You should check the requirements and responsibilities for the position.
 
-The above mentioned points are important because if your interest don't align with the position you are applying for, you will fail the further steps miserably or even if you manage to secure a position, you will regret working there.
+The above mentioned points are important because if your interests doesn't align with the position you are applying for, you will fail the further steps miserably or even if you manage to secure a position, you will regret working there.
 
-If your interest align with the position, the next step is to actually apply. The process is fairly simple and straight forward.
-  - Go to the organisations career page (Every organisation has one).
+If your interests align with the position, the next step is to actually apply. The process is fairly simple and straightforward.
+
+  - Go to the organisation's career page (Every organisation has one).
   - Find the suitable listing (intern or full time job in this case).
-  - Submit your resume and fill the other details (specific to the org)
+  - Submit your resume and fill other details (specific to the org)
   
 Done !
-That's how simple the application procedure is. Once this is done, all you have to do is wait for any recruiter from that organisation to select you resume.
+That's how simple the application procedure is. Once this is done, all you have to do is wait for any recruiter from that organisation to shortlist you from a pool of candidates.
 
-Your resume is the only thing that an organisations know about you, so it is really important that you spend some time crafting it. It should -
+Your resume is the only thing that an organisations knows about you, so it is really important that you spend some time crafting it. It should -
   - Be grammatically correct.
-  - Mention your achivements.
+  - Mention your achievements.
   - Mention your side projects.
   - Mention your previous experiences.
   - Be crisp and concise.
@@ -35,22 +36,22 @@ There are some websites which serve as hub for all job postings. You can apply h
   - [Angel](https://angel.co/) - It is one of the best place to apply for a position at any startup. It is like LinkedIn where you can create a profile and apply to various openings in startups. (Be sure to craft your profile properly)
   - [Internshala](https://internshala.com/) - It is a place where you can find multiple openings in various organisations.
 
-**Note -** Many organisations get thousands of applications for one openings and it is highly competetive. Don't get disheartened if you don't hear back or get an automated rejection email. Persistence and patience are most important during this step. Also apply to many different places and don't pin your hopes on a single position.
+**Note -** Many organisations get thousands of applications for one opening and it is highly competitive. Don't get disheartened if you don't hear back or get an automated rejection email. Persistence and patience are most important during this step. Also apply to many different places and don't pin your hopes on a single position.
 
 
 
 ## Interviews
-Once you have applied to all the places you want, all you can do is wait. The next step starts when your application gets accepted by any organisation you applied to. You will generally hear back from a recruiter and he/she will direct you further. You and the recruiter will decide on a date and time to conduct interviews for the position or any sort of tests that need to be taken. All you have to do from this point on is preparation. Given below are some resourecs that you can use to prepare for that -
-  - [geeksforgeeks](http://www.geeksforgeeks.org/) - It is one of the most comprehensive collection of interview questions and has **all** the resources needed for cracking an interview.
-  - [Leetcode](https://leetcode.com/) - It has an extensive collection of questions with interview level diffiulty
+Once you have applied to all the places you want, all you can do is wait. The next step starts when your application gets accepted by any organisation you applied to. You will generally hear back from a recruiter and he/she will direct you further. You and the recruiter will decide on a date and time to conduct interviews for the position or any sort of tests that needs to be taken. All you have to do from this point on is preparation. Given below are some resources that you can use to prepare for that -
+  - [geeksforgeeks](http://www.geeksforgeeks.org/) - It is one of the most comprehensive collection of interview questions and has **all** the resources needed for cracking **any** interview.
+  - [Leetcode](https://leetcode.com/) - It has an extensive collection of questions with interview level difficulty.
   - [Lintcode](http://www.lintcode.com/en/) - It is also a great source to practice interview level questions in timed manner.
   - [Interviewbit](https://www.interviewbit.com/) - It is also a great place to practice questions asked in interviews for different organisations.
 
-There are a lot of other resources available online, but the above mentioned are more than enough to crack any interview. From this point on, everything depends on your practice and hardwork, because it's you who will be facing the interviews.
+There are a lot of other resources available online, but the above mentioned are more than enough to crack any interview. From this point on, everything depends on your practice and hard work, because it's you who will be facing the interviews.
 
-  - Practise solving questions correcty in fixed time
-  - Practise writing code on paper
-  - Practise design problems
+  - Practise solving questions correctly in fixed time.
+  - Practise writing code on paper.
+  - Practise design problems.
   
 Try to build projects from scratch. It gives you a better design sense that helps in design problems.
 
