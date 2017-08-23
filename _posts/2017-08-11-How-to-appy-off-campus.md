@@ -2,7 +2,7 @@
 layout: post
 title:  How to get off campus jobs / internships.
 date:   2017-08-11
-author: Shikhar Srivastava
+author: shikhar
 ---
 # How to get off campus jobs / internships
 
