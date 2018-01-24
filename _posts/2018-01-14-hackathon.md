@@ -24,7 +24,79 @@ People from final year and third year have graciously agreed to mentor people fr
 in the hackathon by joining the team of a mentor. Of course, you still have the choice of going it alone,
 but please make sure your team does not have more than 4 members.
 
-List of mentors will be uploaded soon , along with their skills.
+## The list of teams is as follows:
+* **cunning linguists** 
+
+  **Rashi Shah(3rd) / Anshul (3rd)**  
+
+  Back end - python Front end - html, css, and js
+
+* **notYetDecided**
+
+  **Sourav Sahoo (3rd) / Gaurav (3rd)**
+
+  cpp, python
+
+* **Rusers**
+
+  **Vishal Choudhary(3rd) / Surag Negi(3rd) / Mratunjay(2nd)**
+
+  python, cpp
+
+* **aTeam**
+
+  **Nimit Bhardwaj(3rd)**
+
+  c++, python
+
+* **#define true false**
+
+  **Anishka Gupta(3rd) / Sarbjit(3rd) / jatin nagal(1st)**
+
+  c++, python
+
+* **Al mush mush**
+
+  **Archit Jain(3rd) / jatin rao(3rd)**
+
+  c++, python 
+
+* **Winners**
+
+  **Karan Guleri(3rd)**
+
+  c++, python , java, sql , matalab
+
+* **#codetheway**
+
+  **Arushi Sehgal(2nd) / Aaina Thakur(2nd) / Ekta Tayagi(2nd)**
+
+  c++ 
+
+* **kitkat**
+
+  **Diksha(3rd) / Shaharyar(3rd)**
+
+  core java, j2ee, sql
+
+* **White Walkers**
+
+  **Sunidhi(3rd) / Prakriti(3rd)**
+
+  python
+
+* **Bings**
+
+  **Shresth Jain(3rd) / Vishesh Garg(3rd)**
+
+  c, cpp, java
+
+* **Sparkle**
+
+  **Pankaj Gupta (3rd) / Mohit Sipani (3rd)**
+
+  c, java core, js
+  
 
 # How to register
 List of teams will be uploaded soon.
