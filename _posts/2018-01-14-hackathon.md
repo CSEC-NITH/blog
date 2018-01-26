@@ -25,12 +25,6 @@ in the hackathon by joining the team of a mentor. Of course, you still have the 
 but please make sure your team does not have more than 4 members.
 
 ## The list of teams is as follows:
-* **cunning linguists** 
-
-  **Rashi Shah(3rd) / Anshul (3rd)**  
-
-  Back end - python Front end - html, css, and js
-
 * **notYetDecided**
 
   **Sourav Sahoo (3rd) / Gaurav (3rd)**
@@ -55,15 +49,15 @@ but please make sure your team does not have more than 4 members.
 
   c++, python
 
-* **Al mush mush**
+* **Al_mushush**
 
   **Archit Jain(3rd) / jatin rao(3rd)**
 
   c++, python 
 
-* **Winners**
+* **Hifi**
 
-  **Karan Guleri(3rd)**
+  **Karan Guleri(3rd) / Ayush Aggarwal (3rd)**
 
   c++, python , java, sql , matalab
 
@@ -77,8 +71,7 @@ but please make sure your team does not have more than 4 members.
 
   **Diksha(3rd) / Shaharyar(3rd)**
 
-  core java, j2ee, sql
-
+  core java, j2ee, sql 
 * **White Walkers**
 
   **Sunidhi(3rd) / Prakriti(3rd)**
@@ -91,12 +84,23 @@ but please make sure your team does not have more than 4 members.
 
   c, cpp, java
 
-* **Sparkle**
+* **cunning linguists** 
 
-  **Pankaj Gupta (3rd) / Mohit Sipani (3rd)**
+  **Rashi Sah(3rd) / Anshul (3rd)**  
 
-  c, java core, js
-  
+  Back end - python Front end - html, css, and js
+
+* **Straw Hat**
+
+  **Anurag (3rd)**
+
+  node-js, html, css
+
+* **XYZ**
+
+  **Amit Chamibal (3rd)**
+
+  node-js, html, css
 
 # How to register
 List of teams will be uploaded soon.
