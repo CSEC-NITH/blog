@@ -21,7 +21,7 @@ create a project that can be used by end users.
 
 People from final year and third year have graciously agreed to mentor people from second and first year
 (if needed). So, students from second and third year who want to maybe learn new technologies can take part
-in the hackathon by joining the team of a mentor. Of course, you still have the choice of going it alone,
+in the hackathon by joining the team of a mentor. Of course, you still have the choice of doing it alone,
 but please make sure your team does not have more than 4 members.
 
 ## The list of teams is as follows:
@@ -90,23 +90,22 @@ but please make sure your team does not have more than 4 members.
 
   Back end - python Front end - html, css, and js
 
-* **Straw Hat**
+* **XYZ**
 
   **Anurag (3rd)**
 
   node-js, html, css
 
-* **XYZ**
+* **Straw Hat**
 
   **Amit Chamibal (3rd)**
 
   node-js, html, css
 
 # How to register
-List of teams will be uploaded soon.
+To join a team register at [this google link](https://docs.google.com/forms/d/e/1FAIpQLSdMlgv5fivp8E8h-iXx4RDe9zeRfnPaSgA27q80dg4sSMGXJg/viewform)
 
-Link to Google forms will be available for joining team for to create you own team
-
+To create your own team register your team at [this google link](https://docs.google.com/forms/d/e/1FAIpQLSdOU5oLJ5fGGDCKKvY1XCQC3X2jjKGZFy9F4JAK6kHNXvS62A/viewform)
 # Prizes 
 First top three team members will be awarded with cool Hackerearth t-shirts.
 
