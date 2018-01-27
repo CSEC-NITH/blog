@@ -103,9 +103,9 @@ but please make sure your team does not have more than 4 members.
   node-js, html, css
 
 # How to register
-To join a team register at [this google link](https://docs.google.com/forms/d/e/1FAIpQLSdMlgv5fivp8E8h-iXx4RDe9zeRfnPaSgA27q80dg4sSMGXJg/viewform)
+To join a team register at [this google link](https://goo.gl/forms/YIr9aQAjkUfFO68f1)
 
-To create your own team register your team at [this google link](https://docs.google.com/forms/d/e/1FAIpQLSdOU5oLJ5fGGDCKKvY1XCQC3X2jjKGZFy9F4JAK6kHNXvS62A/viewform)
+To create your own team register your team at [this google link](https://goo.gl/forms/Q9MrgvmJvjwsStk32)
 # Prizes 
 First top three team members will be awarded with cool Hackerearth t-shirts.
 
