@@ -39,13 +39,13 @@ but please make sure your team does not have more than 4 members.
 
 * **aTeam**
 
-  **Nimit Bhardwaj(3rd)**
+  **Nimit Bhardwaj (3rd) / Udit Gulati (2nd) / Amit Yadav (2nd)**
 
   c++, python
 
 * **#define true false**
 
-  **Anishka Gupta(3rd) / Sarbjit(3rd) / jatin nagal(1st)**
+  **Anishka Gupta(3rd) / Sarbjit(3rd) / jatin nagpal(1st)**
 
   c++, python
 
