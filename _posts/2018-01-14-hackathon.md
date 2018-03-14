@@ -31,7 +31,7 @@ but please make sure your team does not have more than 4 members.
 
   cpp, python
 
-* **Rusers**
+* **R-users**
 
   **Vishal Choudhary(3rd) / Surag Negi(3rd) / Mratunjay(2nd)**
 
